@@ -1,0 +1,40 @@
+# Segredos e credenciais — NUNCA commitar
+.env
+.env.*
+*.env
+.credentials.json
+**/credentials*
+**/secrets*
+*.pem
+*.key
+id_rsa*
+
+# Estado pessoal do Claude Code — nunca distribuir
+**/memory/
+**/projects/
+**/todos/
+settings.local.json
+.claude-cache/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Node (caso alguma skill tenha node_modules)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log

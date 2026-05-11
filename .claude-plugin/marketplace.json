@@ -1,0 +1,15 @@
+{
+  "name": "atingehub",
+  "owner": {
+    "name": "Gabriel Mendes",
+    "url": "https://github.com/gabrielmendes"
+  },
+  "plugins": [
+    {
+      "name": "atingehub-stack",
+      "source": "./",
+      "description": "Stack consultiva do AtingeHub — 52 skills + agente SEO + slash command",
+      "version": "0.1.0"
+    }
+  ]
+}

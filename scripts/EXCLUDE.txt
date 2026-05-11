@@ -1,0 +1,10 @@
+# Lista de skills/arquivos a NÃO copiar pro repo público.
+# Uma entrada por linha. Linhas começando com # são comentários.
+# Match é por nome exato da pasta de skill (case-sensitive).
+
+# Skills íntimas / proprietárias / específicas de projetos do Gabriel
+ibeia-diagnostico
+notebooklm-vault
+renegocia-visual-creator
+vault-sync-architecture
+consulta-cnpj
