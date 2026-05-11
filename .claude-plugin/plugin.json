@@ -1,13 +1,13 @@
 {
   "name": "atingehub-stack",
   "version": "0.1.0",
-  "description": "Stack consultiva do AtingeHub — 52 skills + agente SEO + slash command. Curadoria de Gabriel Mendes para parceiros e clientes.",
+  "description": "Stack consultiva do AtingeHub — 48 skills + agente SEO + slash command. Curadoria de Gabriel Mendes para parceiros e clientes.",
   "author": {
     "name": "Gabriel Mendes",
-    "url": "https://github.com/gabrielmendes"
+    "url": "https://github.com/GabrielMendesIA"
   },
-  "homepage": "https://github.com/gabrielmendes/atingehub-stack",
-  "repository": "https://github.com/gabrielmendes/atingehub-stack",
+  "homepage": "https://github.com/GabrielMendesIA/atingehub-stack",
+  "repository": "https://github.com/GabrielMendesIA/atingehub-stack",
   "license": "MIT",
   "keywords": [
     "marketing",

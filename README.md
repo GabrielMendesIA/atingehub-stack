@@ -1,6 +1,6 @@
 # AtingeHub Stack
 
-A stack de IA do AtingeHub. 52 skills + agente SEO + slash command, curadoria de Gabriel Mendes.
+A stack de IA do AtingeHub. 48 skills + agente SEO + slash command, curadoria de Gabriel Mendes.
 
 Atualizada periodicamente. Espelho do setup que usamos na consultoria.
 
@@ -57,7 +57,7 @@ Se não tem: https://claude.com/claude-code
 Dentro do Claude Code, rode:
 
 ```
-/plugin marketplace add gabrielmendes/atingehub-stack
+/plugin marketplace add GabrielMendesIA/atingehub-stack
 ```
 
 Depois:
